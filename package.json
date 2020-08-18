@@ -1,5 +1,5 @@
 {
-  "homepage": "https://umeshbhat.github.io/portfolio",
+  "homepage": "https://umeshbhat.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
