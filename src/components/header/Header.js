@@ -1,32 +1,32 @@
-import React from "react";
-import Headroom from "react-headroom";
-import "./Header.css";
-import {greeting, workExperiences} from "../../portfolio";
+import React from 'react'
+import Headroom from 'react-headroom'
+import './Header.css'
+import { greeting, workExperiences } from '../../portfolio'
 
 function Header() {
-  const exp = workExperiences.viewExperiences;
+  const exp = workExperiences.viewExperiences
   return (
     <Headroom>
-      <header className="header">
-        <a href="" className="logo">
-          <span className="grey-color"> &lt;</span>
-          <span className="logo-name">{greeting.username}</span>
-          <span className="grey-color">/&gt;</span>
+      <header className='header'>
+        <a href='' className='logo'>
+          <span className='grey-color'> &lt;</span>
+          <span className='logo-name'>{greeting.username}</span>
+          <span className='grey-color'>/&gt;</span>
         </a>
-        <input className="menu-btn" type="checkbox" id="menu-btn" />
-        <label className="menu-icon" htmlFor="menu-btn">
-          <span className="navicon"></span>
+        <input className='menu-btn' type='checkbox' id='menu-btn' />
+        <label className='menu-icon' htmlFor='menu-btn'>
+          <span className='navicon'></span>
         </label>
-        <ul className="menu">
+        <ul className='menu'>
           <li>
-            <a href="#skills">Skills</a>
+            <a href='#skills'>Skills</a>
           </li>
-          { exp === true &&
+          {exp === true && (
             <li>
-              <a href="#experience">Work Experiences</a>
+              <a href='#experience'>Work Experiences</a>
             </li>
-          }
-          <li>
+          )}
+          {/* <li>
             <a href="#opensource">Open Source</a>
           </li>
           <li>
@@ -40,13 +40,13 @@ function Header() {
           </li>
           <li>
             <a href="#talks">Talks</a>
-          </li>
+          </li> */}
           <li>
-            <a href="#contact">Contact Me</a>
+            <a href='#contact'>Contact Me</a>
           </li>
         </ul>
       </header>
     </Headroom>
-  );
+  )
 }
-export default Header;
+export default Header
