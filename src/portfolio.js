@@ -11,7 +11,7 @@ const greeting = {
   subTitle: emoji(
     'An experienced full stack web developer & strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer science.'
   ),
-  resumeLink: 'https://drive.google.com/file/d/1SXuDQgGKs0qrmo7fu3XISYFmgLQq9zj1/view?usp=sharing'
+  resumeLink: 'https://drive.google.com/file/d/1Z9HR8hTsHAPQ63mqTuNJQd3YzQ6g2MZ1/view?usp=sharing'
 }
 
 // Your Social Media Link
