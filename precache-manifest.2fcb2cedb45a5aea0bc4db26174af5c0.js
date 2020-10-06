@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42ff6d047b493a9d472ee8e2c8584ba2",
+    "revision": "5c085a285995e8a97bf309e09f656aa3",
     "url": "/index.html"
   },
   {
-    "revision": "803f84508bd07d87dafa",
-    "url": "/static/css/3.70d62d19.chunk.css"
+    "revision": "3058255e9208f6d9d51f",
+    "url": "/static/css/3.879e9400.chunk.css"
   },
   {
-    "revision": "7acdaa10798fa810e302",
-    "url": "/static/css/4.01c87591.chunk.css"
+    "revision": "7596dfa635978032f822",
+    "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "0a6291ff63af465eb260",
-    "url": "/static/css/main.bdc29dab.chunk.css"
+    "revision": "e2b301b4cc4e3abe9694",
+    "url": "/static/css/main.26434dac.chunk.css"
   },
   {
-    "revision": "b519187771f8b156fbce",
-    "url": "/static/js/2.e810b674.chunk.js"
+    "revision": "2db1f71503ad96ab3b2a",
+    "url": "/static/js/2.ad21b885.chunk.js"
   },
   {
-    "revision": "803f84508bd07d87dafa",
-    "url": "/static/js/3.3c2f3746.chunk.js"
+    "revision": "3058255e9208f6d9d51f",
+    "url": "/static/js/3.445249df.chunk.js"
   },
   {
-    "revision": "7acdaa10798fa810e302",
-    "url": "/static/js/4.6c006636.chunk.js"
+    "revision": "7596dfa635978032f822",
+    "url": "/static/js/4.cd13e862.chunk.js"
   },
   {
-    "revision": "0a6291ff63af465eb260",
-    "url": "/static/js/main.9d8a6321.chunk.js"
+    "revision": "e2b301b4cc4e3abe9694",
+    "url": "/static/js/main.835e3b50.chunk.js"
   },
   {
-    "revision": "a642570404d5740c7df6",
-    "url": "/static/js/runtime-main.a08c791f.js"
+    "revision": "65c8227b744149f86cc1",
+    "url": "/static/js/runtime-main.312ad46f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "de3da8064f2e9ffab945772c2c67e46f",
-    "url": "/static/media/talksCardBack.de3da806.svg"
+    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
+    "url": "/static/media/talksCardBack.0288c5ec.svg"
   }
 ]);
