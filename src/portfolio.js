@@ -11,7 +11,7 @@ const greeting = {
   subTitle: emoji(
     'An experienced full stack web developer & strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer science.'
   ),
-  resumeLink: 'https://drive.google.com/file/d/1PW13wIBCBCLJypXqRrtH74nSKXnM3xur/view?usp=sharing'
+  resumeLink: 'https://drive.google.com/file/d/1g3T6EJYiqgqKr4XrXkkyHvvzajcZjJIr/view?usp=sharing'
 }
 
 // Your Social Media Link
@@ -243,8 +243,8 @@ const achievementSection = {
       subtitle: 'Completed Certifcation from SMIT for PWA Web App Development',
       image: require('./assets/images/pwaLogo.webp'),
       footerLink: [
-        { name: 'Certification', url: '' },
-        { name: 'Final Project', url: 'https://pakistan-olx-1.firebaseapp.com/' }
+        {name: 'Certification', url: ''},
+        {name: 'Final Project', url: 'https://pakistan-olx-1.firebaseapp.com/'}
       ]
     }
   ]
